@@ -5,15 +5,6 @@
 int matrix[sizeMat][sizeMat];
 
 
-//void printt(){
-//    for (int i = 0; i<sizeMat; i++) {
-//        for (int j = 0; j < sizeMat; j++) {
-//            printf("%d ", matrix[i][j]);
-//        }
-//        printf("\n");
-//
-//    }
-//}
 
 void scanMatrix(){
 
